@@ -261,8 +261,8 @@ header input {
     background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.6) 50%, rgba(0, 0, 0, 0.3) 100%);
     bottom: 0;
     color: white;
-    font-size: 1.3rem;
-    font-weight: 700;
+    font-size: 1.25rem;
+    font-weight: 600;
     padding: 0 5px 2px 5px;
     position:absolute;
     width: 100%;
@@ -289,8 +289,8 @@ header input {
 .year {
     color: rgb(208, 208, 208);
     flex: 1 0 0;
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: 0.9rem;
+    font-weight: 300;
     /* margin-left: 1ch; */
     /* position:absolute; */
     /* right: 5px; */
